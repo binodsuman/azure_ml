@@ -1,0 +1,9 @@
+name: azure_ml
+channels:
+  - defaults
+dependencies:
+  - python=3.8.5   # or 2.7
+  - anaconda
+  - pip
+  - pip:
+    - azureml-sdk 
