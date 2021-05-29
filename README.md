@@ -1,4 +1,4 @@
-# azure_ml
+# Azure Machine Learing by Python SDK
 All required file for Azure Machine Learning Model development using Python SDK
 
 All code have been explained in below YouTube Videos.
